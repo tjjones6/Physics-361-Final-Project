@@ -110,8 +110,8 @@ Visual results (FTLE fields, POD mode animations) are available in `Animations_F
 For questions, feedback, or collaboration, contact:
 
 - **Tyler Jones**
-- [Your Email Address]
-- University of Wisconsin-Madison, AMEP
+- [tjjones6@wisc.edu]
+- University of Wisconsin-Madison | B.S. Applied Mathematics, Engineering, and Physics (AMEP)
 
 ---
 

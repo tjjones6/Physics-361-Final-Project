@@ -1,4 +1,4 @@
-# Deep Learning on Reduced Manifolds: Data-Driven Reconstruction of Turbulent Thermal-Fluid Systems via POD and Neural Networks
+# Reduced-Order Modeling with Deep Learning: Flow Reconstruction for External Aerodynamics and Thermal Convection Problems
 
 ## Overview
 

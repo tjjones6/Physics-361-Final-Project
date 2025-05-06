@@ -1,4 +1,4 @@
-# Reduced-Order Modeling with Deep Learning: Flow Reconstruction for External Aerodynamics and Thermal Convection Problems
+# Reduced-Order Modeling with Deep Learning: Flow Reconstruction for External Aerodynamics and Thermal Convection
 
 ## Overview
 

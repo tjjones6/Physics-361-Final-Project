@@ -8,6 +8,10 @@ This repository contains the materials associated with the project titled:
 
 The project combines high-fidelity computational fluid dynamics (CFD), Proper Orthogonal Decomposition (POD), and deep neural networks (DNNs) to develop real-time surrogate models of turbulent thermal-fluid flows. The goal is to enable rapid and accurate prediction of complex fluid dynamics with significantly reduced computational costs.
 
+<p align="center">
+  <video src="Animations/cylinder_particle_advection.mp4" width="600" loop controls></video>
+</p>
+
 ---
 
 ## Project Structure

@@ -1,10 +1,10 @@
-# Reduced-Order Modeling with Deep Learning: Flow Reconstruction for External Aerodynamics and Thermal Convection
+# Reduced-Order Modeling with Deep Learning: Flow Reconstruction for External Aerodynamics and Natural Convection
 
 ## Overview
 
 This repository contains the materials associated with the project titled:
 
-> **Reduced-Order Modeling with Deep Learning: Flow Reconstruction for External Aerodynamics and Thermal Convection**
+> **Reduced-Order Modeling with Deep Learning: Flow Reconstruction for External Aerodynamics and Natural Convection**
 
 The project combines high-fidelity computational fluid dynamics (CFD), Proper Orthogonal Decomposition (POD), and deep neural networks (DNNs) to develop real-time surrogate models of turbulent thermal-fluid flows. The goal is to enable rapid and accurate prediction of complex fluid dynamics with significantly reduced computational costs.
 

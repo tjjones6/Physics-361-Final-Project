@@ -28,64 +28,6 @@ The project combines high-fidelity computational fluid dynamics (CFD), Proper Or
 └── Animations_Figures/      # Visual results: plots, animations, and figures
 ```
 
----
-
-## How to Use this Repository
-
-### Requirements
-
-- Python >= 3.8
-- NumPy, SciPy, Matplotlib
-- scikit-learn (MLPRegressor)
-- h5py (for dataset management)
-
-You can install required packages via:
-
-```sh
-pip install numpy scipy matplotlib scikit-learn h5py
-```
-
-### Running the Project
-
-**1. CFD Simulations:**
-
-To generate CFD data:
-
-```sh
-cd Code/CFD
-python viscous_cylinder_simulation.py
-```
-
-The data will be saved in `Data/`.
-
-**2. POD Analysis:**
-
-Run the POD analysis to generate modes and amplitude files:
-
-```sh
-cd Code/POD
-python compute_pod.py
-```
-
-Results will be stored as NumPy arrays for ML training.
-
-**3. Machine Learning Model Training:**
-
-Train the deep neural network surrogate:
-
-```sh
-cd Code/ML
-python train_dnn_surrogate.py
-```
-
-**4. Post-Processing and Visualization:**
-
-For visualizing reconstructed flow fields, animations, and FTLE:
-
-```sh
-cd Code/PostProcessing
-python visualize_results.py
-```
 
 ---
 
@@ -93,17 +35,6 @@ python visualize_results.py
 
 - Achieved >99% flow energy reconstruction with fewer than 20 POD modes.
 - ML surrogate yields under 2% mean squared reconstruction error.
-- Real-time predictions (~200× faster than CFD).
-
-Visual results (FTLE fields, POD mode animations) are available in `Animations_Figures/`.
-
----
-
-## Future Work
-
-- Incorporate viscous boundary layer modeling (Immersed Boundary methods).
-- Extend neural networks to temporal modeling with LSTMs or Neural ODEs.
-- Implement uncertainty quantification (Bayesian methods).
 
 ---
 

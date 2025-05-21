@@ -10,7 +10,7 @@ The project combines high-fidelity computational fluid dynamics (CFD), Proper Or
 
 ![Inviscid incompressible flow around a cylinder](Figures/inviscid-incompressible-cylinder.png)
 ![POD Mode 3](Figures/pod_mode_3.png)
-![POD Reconstruction](Figures/cylinder-POD-reconstruction.png)
+![POD Reconstruction](Figures/cylinder-POD-reconstruction.jpg)
 ---
 
 ## Project Structure
